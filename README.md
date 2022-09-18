@@ -8,4 +8,4 @@ nombre de GasPassInfo1.dat. Tras la lectura/consumo de cada fichero, deberá pro
 
 REQUISITOS:
 - Versión de java: jdk-17.0.4.1+1
-- Precisa del proceso gaspass.jar (), en el mismo directorio, para funcionar.
+- Precisa del proceso gaspass.jar ( https://github.com/RafaelJNR/gaspass.git ), en el mismo directorio, para funcionar.
